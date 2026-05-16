@@ -31,7 +31,7 @@ Deploy a multi-label text classification system that assigns each incoming ticke
 ## Implementation Steps
 
 ### Step 1: Data Preparation
-Data source:(https://github.com/puligandlakrishna-gif/Data-set-part_4_ai_solution_design.git))
+Data source:(https://drive.google.com/drive/folders/1QnXVOGNOP6o9tx_nJpTsVqd0irSLx789?usp=drive_link)
 - **Source:** Minimum 5,000 labelled historical tickets; ideal 10,000+
 - **Features:** Raw ticket text, timestamp, channel (email/chat), customer metadata
 - **Cleaning:** Anonymize PII (account numbers, addresses, phone) for GDPR compliance
